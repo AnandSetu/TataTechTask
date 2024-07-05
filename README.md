@@ -1,5 +1,9 @@
-Step 1: Node version : v20.10.0
+Step 1: Use Node version : v20.10.0
 
 Step 2 : run "npm install" to install package.json file
 
-      ![image](https://github.com/AnandSetu/TataTechTask/assets/174766718/5d4460b0-fca5-44ea-bfe3-873f655b3f56)
+Step 3 : Run this cmd to execute UI testcase "npm run testScript"
+
+Step 4 : Run this cmd to execute API testcase "npm run apiTest"
+
+
