@@ -1,15 +1,12 @@
 let environment = {
     local: {
-        localUrl: "https://www.polestar.com/se",
-        localApiRegisterUrl: "https://reqres.in/api/register"
+        localUrl: "https://www.polestar.com/se"
     },
     dev_local: {
-        localUrl: "https://www.polestar.com/se",
-        localApiRegisterUrl: "https://reqres.in/api/register"
+        localUrl: "https://www.polestar.com/se"
     },
     rtl: {
-        localUrl: "https://www.polestar.com/se",
-        localApiRegisterUrl: "https://reqres.in/api/register"
+        localUrl: "https://www.polestar.com/se"
     }
 };
 

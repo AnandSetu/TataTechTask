@@ -5,7 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "wdio": "wdio run ./wdio.conf.js",
-    "testScript": "npx wdio run wdio.conf.js"
+    "testScript": "npx wdio run wdio.conf.js",
+    "apiTest": "npx mocha ./tests/ApiTests/apiTest.js --timeout=20000"
   },
   "keywords": [],
   "author": "Anand S, anand.manyam2@gmail.com",
