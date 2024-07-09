@@ -1,4 +1,4 @@
-#To run test case - use this cmd - npx wdio --spec .\tests\features\sampleTest.feature
+#To run test case - use this cmd - npx wdio --spec .\tests\features\polestarHomePage.feature
 @test
 Feature: To validate developer portal
    Scenario: To validate polestar home page
